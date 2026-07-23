@@ -1,4 +1,5 @@
-![Node-JS-24](https://raw.githubusercontent.com/fete3712-vmX/fete3712-vmX/refs/heads/main/NodeJS24.png)
+![Node-JS-24](NodeJS24.png)
+<img src="NodeJS24.png" alt="Image" width="120" height="80"/>
 
 Hello, I'm a Node-JS developer that's still young (8 years old..), I've been coding for a month.
 
