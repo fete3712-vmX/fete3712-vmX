@@ -6,5 +6,7 @@ I use Render to make my projects work.
 Render is ok to use.
 
 Follows:
-@xcontcom
+
+[xcontcom](https://github.com/xcontcom)
+
 [chrisipanaque](https://github.com/chrisipanaque)
