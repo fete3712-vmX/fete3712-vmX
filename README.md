@@ -7,3 +7,4 @@ Render is ok to use.
 
 Follows:
 @xcontcom
+[chrisipanaque](https://github.com/chrisipanaque)
