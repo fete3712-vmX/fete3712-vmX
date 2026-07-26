@@ -11,4 +11,6 @@ Follows:
 
 [chrisipanaque](https://github.com/chrisipanaque)
 
-[Yonas Sahile yonana-sahile]()
+[Yonas Sahile](https://github.com/yonana-sahile)
+
+[Aza](https://github.com/aza-ali)
