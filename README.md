@@ -5,12 +5,4 @@ Hello, I'm a Node-JS developer that's still young (8 years old..), I've been cod
 I use Render to make my projects work.
 Render is ok to use.
 
-Follows:
-
-[xcontcom](https://github.com/xcontcom)
-
-[chrisipanaque](https://github.com/chrisipanaque)
-
-[Yonas Sahile](https://github.com/yonana-sahile)
-
-[Aza](https://github.com/aza-ali)
+Followers: [Followers](https://github.com/fete3712-vmX?tab=followers)
