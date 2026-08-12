@@ -27,7 +27,7 @@ Hi!
     <td>Medium</td>
   </tr>
   <tr>
-    <td>Headless UI</td>
+    <td>HeadlessUI <img src="langs/headless-ui.svg" width=30 height=30 /></td>
     <td>Starting</td>
     <td>Starting</td>
   </tr>
