@@ -32,7 +32,7 @@ Hi!
     <td>Starting</td>
   </tr>
   <tr>
-    <td><img src="langs/lua.svg" width=30 height=30 /></td>
+    <td><img src="langs/lua.png" width=30 height=30 /></td>
     <td>Experienced</td>
     <td>Expert</td>
   </tr>
