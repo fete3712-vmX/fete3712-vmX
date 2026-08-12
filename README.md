@@ -1,8 +1,16 @@
-<img src="NodeJS24.png" alt="Image" width="120" height="80"/>
 
-Hello, I'm a Node-JS developer that's still young (8 years old..), I've been coding for a month.
-
-I use Render to make my projects work.
-Render is ok to use.
-
-Followers: [Followers](https://github.com/fete3712-vmX?tab=followers)
+# My skills
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Level of Skill</th>
+  </tr>
+  <tr>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw4fkV1SpW6hK6fS7Ig7FAk6_y2ADAawey9Q&s" width=30 height=30/></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td><img src="langs/html.png" width=30 height=30/></td>
+    <td>Medium</td>
+  </tr>
+</table>
