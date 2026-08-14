@@ -27,11 +27,6 @@ Hi!
     <td>Medium</td>
   </tr>
   <tr>
-    <td>HeadlessUI <img src="langs/headless-ui.svg" width=30 height=30 /></td>
-    <td>Starting</td>
-    <td>Starting</td>
-  </tr>
-  <tr>
     <td><img src="langs/lua.png" width=30 height=30 /></td>
     <td>Experienced</td>
     <td>Expert</td>
