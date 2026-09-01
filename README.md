@@ -1,39 +1,28 @@
-Hi!
+Hello! My name is xTymezz
 
 
-# My skills
+*I'm **totally not coming or coming to your house at night and stealing foxes*** <small>(JOKE)</small>
 
-<table>
-  <tr>
-    <th>Language</th>
-    <th>Level of Skill</th>
-    <th>Formatting Level</th>
-  </tr>
-  <tr>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw4fkV1SpW6hK6fS7Ig7FAk6_y2ADAawey9Q&s" width=30 height=30 /></td>
-    <td>Medium</td>
-    <td>Expert</td>
-  </tr>
-  <tr>
-    <!--https://pngdownload.io/png-image/html5-logo-png-symbol-for-web-development-transparent/ -->
-    <td><img src="langs/html.png" width=30 height=30 /></td>
-    <td>Medium</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td>Python 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=30 height=30 /></td>
-    <td>Newbie</td>
-    <td>Medium</td>
-  </tr>
-  <tr>
-    <td><img src="langs/lua.png" width=30 height=30 /></td>
-    <td>Experienced</td>
-    <td>Expert</td>
-  </tr>
-</table>
+---
 
+# My Languages
 
-# Tools I use
-Web VS code<br/>
-Github (this)
+<p align="left">
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
+  <!-- Lua -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" style="margin-right: 10px;"/>
+</p>
+
+---
+
+# Tools I Use
+
+<p align="left">
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;"/>
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+</p>
