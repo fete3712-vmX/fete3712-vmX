@@ -1,40 +1,104 @@
-<!-- animatedsvg-n3t -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 50" width="100%" height="100%">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&amp;display=swap');
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="100%">
+  <foreignObject x="0" y="0" width="600" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
+      <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&amp;display=swap" rel="stylesheet" />
 
-      .text {
-        font-family: 'Comic Relief', cursive, sans-serif;
-        font-size: 32px;
-        font-weight: bold;
-        color: #ff8c00;
-        text-align: center;
-        line-height: 1;
+      <style>
+        .text-wrapper {
+          width: 100%;
+          height: 60px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        .typing {
+          font-family: 'Comic Neue', cursive, sans-serif;
+          font-size: 32px;
+          font-weight: 700;
+          color: #ff8c00;
+          text-align: center;
+          white-space: nowrap;
+        }
+
+        .typing::after {
+          content: "";
+          animation: loop 10s infinite;
+        }
+
+        @keyframes loop {
+          0%, 10% { content: ""; }
+          
+          11% { content: "x"; }
+          12% { content: "xT"; }
+          13% { content: "xTy"; }
+          14% { content: "xTym"; }
+          15% { content: "xTyme"; }
+          16% { content: "xTymez"; }
+          17% { content: "xTymezz"; }
+          
+          17%, 27% { content: "xTymezz"; }
+          
+          28% { content: "xTyme"; }
+          29% { content: "xTy"; }
+          30% { content: "x"; }
+          31% { content: ""; }
+          
+          31%, 41% { content: ""; }
+          
+          42% { content: "I"; }
+          43% { content: "I "; }
+          44% { content: "I l"; }
+          45% { content: "I lo"; }
+          46% { content: "I lov"; }
+          47% { content: "I love"; }
+          48% { content: "I love "; }
+          49% { content: "I love L"; }
+          50% { content: "I love Lu"; }
+          51% { content: "I love Lua"; }
+          52% { content: "I love Lua,"; }
+          53% { content: "I love Lua, "; }
+          54% { content: "I love Lua, L"; }
+          55% { content: "I love Lua, Lu"; }
+          56% { content: "I love Lua, Lua"; }
+          57% { content: "I love Lua, Luau"; }
+          58% { content: "I love Lua, Luau!"; }
+          
+          58%, 68% { content: "I love Lua, Luau!"; }
+          
+          69% { content: "I love Lua, Lu"; }
+          70% { content: "I love Lua, "; }
+          71% { content: "I love Lua"; }
+          72% { content: "I love "; }
+          73% { content: "I love"; }
+          74% { content: "I lo"; }
+          75% { content: "I "; }
+          76% { content: ""; }
+          
+          76%, 100% { content: ""; }
+        }
+      </style>
+
+      <div class="text-wrapper">
+        <span class="typing"></span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>        76% { content: ""; }
+        
+        76%, 100% { content: ""; }
       }
+    </style>
+  </defs>
 
-      .typing::after {
-        content: "";
-        animation: loop 10s infinite;
-      }
-
-      @keyframes loop {
-        0%, 10% { content: ""; }
-        
-        11% { content: "x"; }
-        12% { content: "xT"; }
-        13% { content: "xTy"; }
-        14% { content: "xTym"; }
-        15% { content: "xTyme"; }
-        16% { content: "xTymez"; }
-        17% { content: "xTymezz"; }
-        
-        17%, 27% { content: "xTymezz"; }
-        
-        28% { content: "xTyme"; }
-        29% { content: "xTy"; }
-        30% { content: "x"; }
-        31% { content: ""; }
+  <foreignObject x="0" y="0" width="600" height="60">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="height: 100%; display: flex; justify-content: center; align-items: center;">
+      <span class="text typing"></span>
+    </div>
+  </foreignObject>
+</svg>        31% { content: ""; }
         
         31%, 41% { content: ""; }
         
