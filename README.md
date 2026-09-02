@@ -3,6 +3,8 @@ Hello! My name is xTymezz
 
 *I'm **totally not coming or coming to your house at night and stealing foxes*** <small>(JOKE)</small>
 
+<img src="svgs/text-scroll.svg"/>
+
 ---
 
 # My Languages
