@@ -35,7 +35,7 @@ Hello! My name is xTymezz
 
 Summary Card
 
-![WOWIDIDNOTKNOWUCHECKEDTHISLOL](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fete3712-vmX&theme=transparent)
+![WOWIDIDNOTKNOWUCHECKEDTHISLOL](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fete3712-vmX&theme=transparent?v=1)
 <br>
 --
 Streak stats
