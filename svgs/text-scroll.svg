@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="100%">
-  <foreignObject x="0" y="0" width="600" height="60">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="100%" height="100%">
+  <foreignObject x="0" y="0" width="900" height="60">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <link rel="preconnect" href="https://fonts.googleapis.com" />
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
-      <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&amp;display=swap" rel="stylesheet" />
+      <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&amp;display=swap" rel="stylesheet"/>
 
       <style>
         .text-wrapper {
@@ -25,59 +23,184 @@
 
         .typing::after {
           content: "";
-          animation: loop 10s infinite;
+          animation: loop 14s infinite steps(1);
         }
 
         @keyframes loop {
-          0%, 10% { content: ""; }
-          
-          11% { content: "x"; }
-          12% { content: "xT"; }
-          13% { content: "xTy"; }
+          /* xTymezz */
+          0% { content: ""; }
+          2% { content: "x"; }
+          3% { content: "xT"; }
+          4% { content: "xTy"; }
+          5% { content: "xTym"; }
+          6% { content: "xTyme"; }
+          7% { content: "xTymez"; }
+          8% { content: "xTymezz"; }
+
+          /* backspace */
+          13% { content: "xTymez"; }
+          13.5% { content: "xTyme"; }
           14% { content: "xTym"; }
-          15% { content: "xTyme"; }
-          16% { content: "xTymez"; }
-          17% { content: "xTymezz"; }
-          
-          17%, 27% { content: "xTymezz"; }
-          
-          28% { content: "xTyme"; }
-          29% { content: "xTy"; }
-          30% { content: "x"; }
-          31% { content: ""; }
-          
-          31%, 41% { content: ""; }
-          
-          42% { content: "I"; }
-          43% { content: "I "; }
-          44% { content: "I l"; }
-          45% { content: "I lo"; }
-          46% { content: "I lov"; }
-          47% { content: "I love"; }
-          48% { content: "I love "; }
-          49% { content: "I love L"; }
-          50% { content: "I love Lu"; }
-          51% { content: "I love Lua"; }
-          52% { content: "I love Lua,"; }
-          53% { content: "I love Lua, "; }
-          54% { content: "I love Lua, L"; }
-          55% { content: "I love Lua, Lu"; }
-          56% { content: "I love Lua, Lua"; }
-          57% { content: "I love Lua, Luau"; }
-          58% { content: "I love Lua, Luau!"; }
-          
-          58%, 68% { content: "I love Lua, Luau!"; }
-          
-          69% { content: "I love Lua, Lu"; }
-          70% { content: "I love Lua, "; }
-          71% { content: "I love Lua"; }
-          72% { content: "I love "; }
-          73% { content: "I love"; }
-          74% { content: "I lo"; }
-          75% { content: "I "; }
-          76% { content: ""; }
-          
-          76%, 100% { content: ""; }
+          14.5% { content: "xTy"; }
+          15% { content: "xT"; }
+          15.5% { content: "x"; }
+          16% { content: ""; }
+
+          /* World's youngest coder, */
+          18% { content: "W"; }
+          18.5% { content: "Wo"; }
+          19% { content: "Wor"; }
+          19.5% { content: "Worl"; }
+          20% { content: "World"; }
+          20.5% { content: "World'"; }
+          21% { content: "World's"; }
+          21.5% { content: "World's "; }
+          22% { content: "World's y"; }
+          22.5% { content: "World's yo"; }
+          23% { content: "World's you"; }
+          23.5% { content: "World's youn"; }
+          24% { content: "World's young"; }
+          24.5% { content: "World's younge"; }
+          25% { content: "World's youngest"; }
+          25.5% { content: "World's youngest "; }
+          26% { content: "World's youngest c"; }
+          26.5% { content: "World's youngest co"; }
+          27% { content: "World's youngest cod"; }
+          27.5% { content: "World's youngest code"; }
+          28% { content: "World's youngest coder"; }
+          28.5% { content: "World's youngest coder!"; }
+
+          /* backspace */
+          33% { content: "World's youngest coder"; }
+          33.5% { content: "World's youngest code"; }
+          34% { content: "World's youngest cod"; }
+          34.5% { content: "World's youngest co"; }
+          35% { content: "World's youngest c"; }
+          35.5% { content: "World's youngest "; }
+          36% { content: "World's youngest"; }
+          36.5% { content: "World's younge"; }
+          37% { content: "World's young"; }
+          37.5% { content: "World's youn"; }
+          38% { content: "World's you"; }
+          38.5% { content: "World's yo"; }
+          39% { content: "World's y"; }
+          39.5% { content: "World's "; }
+          40% { content: "World's"; }
+          40.5% { content: "World'"; }
+          41% { content: "World"; }
+          41.5% { content: "Worl"; }
+          42% { content: "Wor"; }
+          42.5% { content: "Wo"; }
+          43% { content: "W"; }
+          43.5% { content: ""; }
+
+          /* Better than most coders in Poland, */
+          45% { content: "B"; }
+          45.5% { content: "Be"; }
+          46% { content: "Bet"; }
+          46.5% { content: "Bett"; }
+          47% { content: "Bette"; }
+          47.5% { content: "Better"; }
+          48% { content: "Better "; }
+          48.5% { content: "Better t"; }
+          49% { content: "Better th"; }
+          49.5% { content: "Better tha"; }
+          50% { content: "Better than"; }
+          50.5% { content: "Better than "; }
+          51% { content: "Better than m"; }
+          51.5% { content: "Better than mo"; }
+          52% { content: "Better than mos"; }
+          52.5% { content: "Better than most"; }
+          53% { content: "Better than most "; }
+          53.5% { content: "Better than most c"; }
+          54% { content: "Better than most co"; }
+          54.5% { content: "Better than most cod"; }
+          55% { content: "Better than most code"; }
+          55.5% { content: "Better than most coder"; }
+          56% { content: "Better than most coders"; }
+          56.5% { content: "Better than most coders "; }
+          57% { content: "Better than most coders i"; }
+          57.5% { content: "Better than most coders in"; }
+          58% { content: "Better than most coders in "; }
+          58.5% { content: "Better than most coders in P"; }
+          59% { content: "Better than most coders in Po"; }
+          59.5% { content: "Better than most coders in Pol"; }
+          60% { content: "Better than most coders in Pola"; }
+          60.5% { content: "Better than most coders in Polan"; }
+          61% { content: "Better than most coders in Poland"; }
+          61.5% { content: "Better than most coders in Poland,"; }
+
+          /* backspace */
+          66% { content: "Better than most coders in Poland"; }
+          66.5% { content: "Better than most coders in Polan"; }
+          67% { content: "Better than most coders in Pola"; }
+          67.5% { content: "Better than most coders in Pol"; }
+          68% { content: "Better than most coders in Po"; }
+          68.5% { content: "Better than most coders in P"; }
+          69% { content: "Better than most coders in "; }
+          69.5% { content: "Better than most coders in"; }
+          70% { content: "Better than most coders i"; }
+          70.5% { content: "Better than most coders "; }
+          71% { content: "Better than most coders"; }
+          71.5% { content: "Better than most code"; }
+          72% { content: "Better than most cod"; }
+          72.5% { content: "Better than most co"; }
+          73% { content: "Better than most c"; }
+          73.5% { content: "Better than most "; }
+          74% { content: "Better than most"; }
+          74.5% { content: "Better than mos"; }
+          75% { content: "Better than mo"; }
+          75.5% { content: "Better than m"; }
+          76% { content: "Better than "; }
+          76.5% { content: "Better than"; }
+          77% { content: "Better tha"; }
+          77.5% { content: "Better th"; }
+          78% { content: "Better t"; }
+          78.5% { content: "Better "; }
+          79% { content: "Better"; }
+          79.5% { content: "Bette"; }
+          80% { content: "Bett"; }
+          80.5% { content: "Bet"; }
+          81% { content: "Be"; }
+          81.5% { content: "B"; }
+          82% { content: ""; }
+
+          /* I love Lua, Luau! */
+          84% { content: "I"; }
+          84.5% { content: "I "; }
+          85% { content: "I l"; }
+          85.5% { content: "I lo"; }
+          86% { content: "I lov"; }
+          86.5% { content: "I love"; }
+          87% { content: "I love "; }
+          87.5% { content: "I love L"; }
+          88% { content: "I love Lu"; }
+          88.5% { content: "I love Lua"; }
+          89% { content: "I love Lua,"; }
+          89.5% { content: "I love Lua, "; }
+          90% { content: "I love Lua, L"; }
+          90.5% { content: "I love Lua, Lu"; }
+          91% { content: "I love Lua, Lua"; }
+          91.5% { content: "I love Lua, Luau"; }
+          92% { content: "I love Lua, Luau!"; }
+
+          /* backspace + loop */
+          94% { content: "I love Lua, Luau"; }
+          94.5% { content: "I love Lua, Lua"; }
+          95% { content: "I love Lua, Lu"; }
+          95.5% { content: "I love Lua, L"; }
+          96% { content: "I love Lua, "; }
+          96.5% { content: "I love Lua,"; }
+          97% { content: "I love Lua"; }
+          97.5% { content: "I love Lu"; }
+          98% { content: "I love L"; }
+          98.5% { content: "I love "; }
+          99% { content: "I love"; }
+          99.2% { content: "I lov"; }
+          99.4% { content: "I lo"; }
+          99.6% { content: "I l"; }
+          99.8% { content: "I"; }
+          100% { content: ""; }
         }
       </style>
 
