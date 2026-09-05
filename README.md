@@ -26,7 +26,7 @@ Hello! My name is xTymezz
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;"/>
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px; background: white;"/>
+  <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=4" alt="GitHub" width="40" height="40" style="margin-right: 10px; background: white;"/>
 </p>
 
 ---
