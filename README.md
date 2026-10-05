@@ -23,7 +23,7 @@ Hello! My name is xTymezz
 
 <p align="left">
   <!-- VS Code -->
-  <img src="https://skillicons.dev/icons?i=github,robloxstudio,vscode"/>
+  <img src="https://skillicons.dev/icons?i=github,vscode"/>
   
 </p>
 
