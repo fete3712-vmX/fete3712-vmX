@@ -28,7 +28,7 @@ Hello! My name is xTymezz
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;"/>
   <!-- GitHub -->
-  <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=192" alt="GitHub" width="40" height="40" style="margin-right: 10px; background: white;"/>
+  <img src="https://avatars.githubusercontent.com/in/15368?s=64&v=193" alt="GitHub" width="40" height="40" style="margin-right: 10px; background: white;"/>
 </p>
 
 ---
@@ -37,10 +37,10 @@ Hello! My name is xTymezz
 
 Summary Card
 
-![WOWIDIDNOTKNOWUCHECKEDTHISLOL](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fete3712-vmX&theme=transparent&v=192)
+![WOWIDIDNOTKNOWUCHECKEDTHISLOL](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fete3712-vmX&theme=transparent&v=193)
 <br>
 --
 Streak stats
 
-![STOPLOOKINGHEREDUDE](https://streak-stats.demolab.com/?user=fete3712-vmX&theme=dark&v=192)
+![STOPLOOKINGHEREDUDE](https://streak-stats.demolab.com/?user=fete3712-vmX&theme=dark&v=193)
 <br>
