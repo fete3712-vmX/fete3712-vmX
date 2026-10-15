@@ -2,7 +2,7 @@ Hello! My name is xTymezz
 
 
 
-<img src="svgs/text-scroll.svg"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=xTymezz+;World's+youngest+coder!;Better+than+most+coders+in+Poland;Sphinx+of+white+quartz%2C+judge+my+vow)
 
 ---
 
