@@ -32,10 +32,10 @@ Hello! My name is xTymezz
 
 Summary Card
 
-![WOWIDIDNOTKNOWUCHECKEDTHISLOL](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fete3712-vmX&theme=transparent&v=274)
+![WOWIDIDNOTKNOWUCHECKEDTHISLOL](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fete3712-vmX&theme=transparent&v=275)
 <br>
 --
 Streak stats
 
-![STOPLOOKINGHEREDUDE](https://streak-stats.demolab.com/?user=fete3712-vmX&theme=dark&v=274)
+![STOPLOOKINGHEREDUDE](https://streak-stats.demolab.com/?user=fete3712-vmX&theme=dark&v=275)
 <br>
