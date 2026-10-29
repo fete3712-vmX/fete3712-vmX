@@ -2,7 +2,7 @@ Hello! My name is xTymezz
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=xTymezz+;World's+youngest+coder!;Better+than+most+coders+in+Poland;Sphinx+of+white+quartz%2C+judge+my+vow)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=xTymezz+;World's+youngest+coder!;Better+than+most+coders+in+Poland;)
 
 ---
 
@@ -11,12 +11,15 @@ Hello! My name is xTymezz
 <p align="left">
   
   
-  <img src="https://skillicons.dev/icons?i=html,javascript,lua"/>
+  <img src="https://skillicons.dev/icons?i=html,javascript,lua,go,bun"/>
   <!-- Luau -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Luau" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
----
+# Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite"/>
+</p>
 
 # Tools I Use
 
@@ -29,13 +32,8 @@ Hello! My name is xTymezz
 ---
 
 # Github Analytics
-
-Summary Card
-
+![STAWP](https://github-stats-extended.vercel.app/api/top-langs?username=fete3712-vmX&langs_count=4&theme=dark&v=297)
 ![WOWIDIDNOTKNOWUCHECKEDTHISLOL](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fete3712-vmX&theme=transparent&v=297)
 <br>
---
-Streak stats
-
 ![STOPLOOKINGHEREDUDE](https://streak-stats.demolab.com/?user=fete3712-vmX&theme=dark&v=297)
 <br>
