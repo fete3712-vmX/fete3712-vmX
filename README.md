@@ -12,8 +12,6 @@ Hello! My name is xTymezz
   
   
   <img src="https://skillicons.dev/icons?i=html,javascript,lua,go,bun"/>
-  <!-- Luau -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Luau" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
 # Databases
