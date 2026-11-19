@@ -30,8 +30,8 @@ Hello! My name is xTymezz
 ---
 
 # Github Analytics
-![STAWP](https://github-stats-extended.vercel.app/api/top-langs?username=fete3712-vmX&langs_count=4&theme=dark&v=362)
-![WOWIDIDNOTKNOWUCHECKEDTHISLOL](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fete3712-vmX&theme=transparent&v=362)
+![STAWP](https://github-stats-extended.vercel.app/api/top-langs?username=fete3712-vmX&langs_count=4&theme=dark&v=363)
+![WOWIDIDNOTKNOWUCHECKEDTHISLOL](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fete3712-vmX&theme=transparent&v=363)
 <br>
-![STOPLOOKINGHEREDUDE](https://streak-stats.demolab.com/?user=fete3712-vmX&theme=dark&v=362)
+![STOPLOOKINGHEREDUDE](https://streak-stats.demolab.com/?user=fete3712-vmX&theme=dark&v=363)
 <br>
